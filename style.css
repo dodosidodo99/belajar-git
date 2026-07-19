@@ -6,3 +6,13 @@ body {
     padding: 0;
 }
 
+.navbar {
+    background-color: #053efa;
+}
+
+.navbar h1 {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 24px;
+}
